@@ -1,7 +1,6 @@
 git config --global user.name NAME
 git config --global user.email EMAIL
 
-cd to target folder
 git init
 
 git add .
