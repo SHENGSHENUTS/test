@@ -12,3 +12,9 @@ git commit -m "first commit"
 git remote add origin WEBSITE.git
 git branch -M main
 git push -u origin main
+
+git checkout -b test
+
+git checkout main
+git checkout test
+
