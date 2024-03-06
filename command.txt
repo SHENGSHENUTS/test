@@ -3,7 +3,6 @@ git config --global user.email EMAIL
 
 cd to target folder
 
-
 git add .
 git status
 
